@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "proof-of-solvency"
+version = "0.1.0"
+description = ""
+authors = ["Xrex-nick <nickliao@xrex.io>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+binarytree = "^6.5.1"
+pydantic = "^1.10.2"
+toml = "^0.10.2"
+pyyaml = "^6.0"
+jupyterlab = "^3.5.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^2.20.0"
+pyright = "^1.1.280"
+mypy = "^0.991"
+flake8 = "^5.0.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pyright]
+include=["."]

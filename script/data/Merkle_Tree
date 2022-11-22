@@ -1,0 +1,32 @@
+digraph {
+	node [color=lightgray fillcolor=lightgray fontcolor=black shape=record style="filled, rounded"]
+	4360679280 [label="<l>|<v> [hash]: 17200802b424491905e72f261553fc6db1fcc32c86e71c66dd7606b360573bf1\n [balance]: BTC:1054.53, ETH:27.42, USDC:9460.574, USDT:10249.816|<r>"]
+	4360679280:l -> 4360758416:v
+	4360679280:r -> 4360758512:v
+	4360758416 [label="<l>|<v> [hash]: 4237cdbb16d3b2e6cdca23dd6b1e8fdead556d095e8ae965d6334280cc8ac7b5\n [balance]: BTC:184.53, ETH:21.42, USDC:1226.34, USDT:10000.34|<r>"]
+	4360758416:l -> 4360758608:v
+	4360758416:r -> 4360758704:v
+	4360758512 [label="<l>|<v> [hash]: 82250fd17311f0aa9065f85926812f0a51d962a825555b256aa1ea20c14579f1\n [balance]: BTC:870, ETH:6, USDC:8234.234, USDT:249.476|<r>"]
+	4360758512:l -> 4360758800:v
+	4360758512:r -> 4360758896:v
+	4360758608 [label="<l>|<v> [hash]: 2d8ddd6201103122277bacd17f29342735edeb3b82b68a0836a82ab56f7b1c04\n [balance]: BTC:20.53, ETH:21.42|<r>"]
+	4360758608:l -> 4360758992:v
+	4360758608:r -> 4360759088:v
+	4360758704 [label="<l>|<v> [hash]: d40ff9abbb52303f817f4879084508e9b5a7df1f7c11af2739b336641fc8cc1b\n [balance]: BTC:164, USDC:1226.34, USDT:10000.34|<r>"]
+	4360758704:l -> 4360759184:v
+	4360758704:r -> 4360759280:v
+	4360758800 [label="<l>|<v> [hash]: c6375901c369d1a24c0eb6ea8dad17336e0ff9630fa9107cebeeb3c22863000d\n [balance]: BTC:870, ETH:6, USDC:8234.234, USDT:219.238|<r>"]
+	4360758800:l -> 4360759376:v
+	4360758800:r -> 4360759472:v
+	4360758896 [label="<l>|<v> [hash]: 5105b68fdde2b1d439086d6b17ccefc4052c50a8523cf9e1b6099923dc45dfe9\n [balance]: USDT:30.238|<r>"]
+	4360758896:l -> 4360759568:v
+	4360758896:r -> 4360759664:v
+	4360758992 [label="<l>|<v> [hash]: 4bc6304e4ec432a04bcfe9ad148dab5528cb1e8223b12e082740bc58ab663197\n [balance]: BTC:20.33, ETH:10.12|<r>"]
+	4360759088 [label="<l>|<v> [hash]: 5520f90547beac892b18c609a76bb934131924c41157f4eb034a5fc7c2bb12de\n [balance]: BTC:0.2, ETH:11.3|<r>"]
+	4360759184 [label="<l>|<v> [hash]: c767dc85b2eefb7484154d6e1e7f07fd80e762e2552fb72497816377d9363b15\n [balance]: USDC:343.22, USDT:10000.34|<r>"]
+	4360759280 [label="<l>|<v> [hash]: 5184a2ff03731b16fd29ec4c0194687d30fc6815fed3a335bc044466f6591258\n [balance]: USDC:883.12, BTC:164|<r>"]
+	4360759376 [label="<l>|<v> [hash]: 72e8c26df26a9c3c5ee915bc67800a5685c5343f99f9eab416848c023bec3670\n [balance]: BTC:870, USDT:219.238|<r>"]
+	4360759472 [label="<l>|<v> [hash]: 6b272dcd8c5c2852d560c803ef1f7ff04d3bf10c073c246a5c7bd4c5237ace8e\n [balance]: ETH:6, USDC:8234.234|<r>"]
+	4360759568 [label="<l>|<v> [hash]: ca8e395ffd148e7d8181f98050f5f2fcf4bf36d1f8920cdc6939bed8b68ddf25\n [balance]: USDT:30.238|<r>"]
+	4360759664 [label="<l>|<v> [hash]: 0000000000000000000000000000000000000000000000000000000000000000\n [balance]: |<r>"]
+}
