@@ -58,3 +58,5 @@ poetry shell
 python xrex_merkle_sum_tree.py
 ```
 
+## V. License
+[MIT](LICENSE) © 2022 XREX.INC
