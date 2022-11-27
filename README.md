@@ -19,7 +19,7 @@
 └── README.md                           # Read me
 ```
 
-## II. Set up poetry for python virtual environment
+## II. Set up `poetry` for python virtual environment
 
 * please download [poetry](https://python-poetry.org/en/latest/) first and install it
  ```shell
