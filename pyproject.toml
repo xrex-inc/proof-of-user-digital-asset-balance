@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "proof-of-solvency"
+name = "proof-of-user-digital-asset-balance"
 version = "0.1.0"
 description = ""
 authors = ["Xrex-nick <nickliao@xrex.io>"]
