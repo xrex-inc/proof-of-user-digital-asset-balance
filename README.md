@@ -1,4 +1,4 @@
-# Proof of solvency
+# Proof of User Digital Asset Balance
 
 * This is the demo code for XREX to generate the merkle sum tree
 
